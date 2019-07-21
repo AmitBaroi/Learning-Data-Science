@@ -1,0 +1,12 @@
+[X] 1 How models work
+[X] 2 Basic data exploration
+[X] 3 Ex: Basic data exploration
+[X] 4 Your first machine learning model
+[X] 5 Ex: Your first machine learning model
+[ ] 6 Model validation
+[ ] 7 Ex: Model validation
+[ ] 8 Underfitting and Overfitting
+[ ] 9 Ex: Underfitting and Overfitting
+[ ] 10 Random Forests
+[ ] 11 Ex: Random Forests
+[ ] 12 Ex: Machine learning competitions
