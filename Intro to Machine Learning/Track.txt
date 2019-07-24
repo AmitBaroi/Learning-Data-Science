@@ -6,7 +6,7 @@
 [X] 6 Model validation
 [X] 7 Ex: Model validation
 [X] 8 Underfitting and Overfitting
-[ ] 9 Ex: Underfitting and Overfitting
+[X] 9 Ex: Underfitting and Overfitting
 [ ] 10 Random Forests
 [ ] 11 Ex: Random Forests
 [ ] 12 Ex: Machine learning competitions
